@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ app()->getLocale() }}">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>注册确认链接</title>
 </head>
 <body>
